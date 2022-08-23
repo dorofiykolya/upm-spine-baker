@@ -1,0 +1,16 @@
+{
+    "name": "dorofiykolya.spine.baker",
+    "rootNamespace": "",
+    "references": [
+        "GUID:72d1fea872bd7a449bf3818f2b0a6708"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
